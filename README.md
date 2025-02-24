@@ -31,7 +31,7 @@ This project showcases the flexibility and functionality of dynamic data visuali
 ![Bars](./screenshot/img1.png)
 
 ## Chart: Line
-![Line](./screenshot/img2.png)
+![Line](./screenshot/img2.PNG)
 
 ## Chart: Pie
-![Pie](./screenshot/img3.png)
+![Pie](./screenshot/img3.PNG)
