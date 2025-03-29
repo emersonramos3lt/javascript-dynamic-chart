@@ -28,7 +28,7 @@ This project showcases the flexibility and functionality of dynamic data visuali
 # 📷 Screenshots
 
 ## Chart: Bar
-![Bars](./screenshot/img1.png)
+![Bars](./screenshot/img1.PNG)
 
 ## Chart: Line
 ![Line](./screenshot/img2.PNG)
