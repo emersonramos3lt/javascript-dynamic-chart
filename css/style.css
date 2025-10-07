@@ -6,25 +6,13 @@
   --dot-size: 1px;
   --dot-space: 70px;
   --textBodyColor: #111;
-  --containerBg: #151d26;
+  --containerBg: #fff;
   --borderColor: gray;
-  --buttonColor: #0353a4;
+  --buttonColor: #5fadd3;
 }
 
 body {
-  background: linear-gradient(
-        90deg,
-        var(--dot-bg) calc(var(--dot-space) - var(--dot-size)),
-        transparent 1%
-      )
-      center / var(--dot-space) var(--dot-space),
-    linear-gradient(
-        var(--dot-bg) calc(var(--dot-space) - var(--dot-size)),
-        transparent 1%
-      )
-      center / var(--dot-space) var(--dot-space),
-    var(--dot-color);
-
+  background-color: var(--buttonColor);
   color: var(--textBodyColor);
   display: flex;
   align-items: center;
@@ -57,8 +45,6 @@ body {
   margin-right: 10px;
   border: 1px solid var(--borderColor);
   border-radius: 5px;
-  background: rgba(0, 0, 0, 0.7);
-  color: #fff;
 }
 
 .input::placeholder {
